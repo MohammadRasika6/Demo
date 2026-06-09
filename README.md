@@ -1,3 +1,3 @@
 # Demo
-This is my firstgit  repository
+This is my first git  repository
 Author - Rasika
